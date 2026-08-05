@@ -1,0 +1,1 @@
+# CV_task_drawing_2d_find_edges
