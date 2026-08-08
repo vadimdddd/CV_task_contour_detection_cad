@@ -16,3 +16,5 @@
 ## Результаты
 - 44/50 чертежей успешно обрабатываются
 - Высокая точность детекции контуров
+
+![Иллюстрация к проекту](https://github.com/vadimdddd/CV_task_contour_detection_cad/blob/main/Interface.png)
