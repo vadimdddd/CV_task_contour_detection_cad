@@ -1,4 +1,4 @@
-# CV_task_drawing_2d_find_edges
+# CV_task_contour_detection_cad
 
 Запуск проекта в гугл колабе CV_Task_1.ipynb(для экономии памяти можно запустить 4 ячейку вместо 5, где сразу же подгружаются .png файлы)
 
